@@ -1,2 +1,46 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sample Page</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: navy;
+            font-size: 2em;
+        }
+
+        p {
+            color: darkslategray;
+            font-size: 1.2em;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a sample paragraph to showcase styling.</p>
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+    </ul>
+    <img src="example.jpg" alt="Example Image">
+    <a href="rooms/canyon.html">Canyon</a>
+</body>
+</html>
